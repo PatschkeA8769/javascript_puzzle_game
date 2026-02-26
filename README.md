@@ -1,2 +1,2 @@
-# Online-Text-based-RPG-Game
+# JavaScript-Puzzle-Game
 Group Project-Web Fundamentals
