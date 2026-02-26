@@ -1,2 +1,2 @@
 # JavaScript-Puzzle-Game
-Group Project-Web Fundamentals
+Group Project - Web Fundamentals
